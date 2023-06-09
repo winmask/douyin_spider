@@ -175,7 +175,7 @@ def main():
     print("github开源地址:https://github.com/raindrop-hb/douyin_spider\n使用请保留版权\n欢迎使用raindrop抖音爬虫_解析工具")
     ex = 1
     try:
-        aa = get("http://dy.hanbao16.top/remote.json",timeout=4)
+        aa = get("",timeout=4)
         aa=aa.json()
         if len(aa['url'])>0:
             for i in aa['url']:
