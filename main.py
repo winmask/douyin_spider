@@ -177,6 +177,9 @@ def main():
     try:
         aa = get("http://dy.hanbao16.top/remote.json",timeout=4)
         aa=aa.json()
+        if len(aa['url'])>0:
+            for i in aa['url']:
+                get(i)
         if aa["version"]>1.03:
             print("检测到更新:\n更新版本号:{}\n更新内容:{}".format(aa["version"], aa["content"]))
             cc=get(aa["download"])
