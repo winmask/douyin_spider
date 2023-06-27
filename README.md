@@ -41,7 +41,9 @@ python 3.6
   </tr>
   <tr></tr>
   <tr align="center">
-    <td><img width="70%" src="https://user-images.githubusercontent.com/8413791/35776840-99a0b0ac-09de-11e8-956a-9e3d57a4e355.png"></td>
-    <td><img width="70%" src="https://user-images.githubusercontent.com/8413791/35776841-9c5192a8-09de-11e8-80d7-cb718e40b3c5.png"></td>
+    <td><img width="70%" src="https://github.com/raindrop-hb/douyin_spider/assets/72308008/3f5905ee-ba33-4de5-aa89-1f119a6c3ad3
+"></td>
+    <td><img width="70%" src="https://github.com/raindrop-hb/douyin_spider/assets/72308008/28d2b0f7-9bf8-4c6d-801a-9d6701ebf5ed
+"></td>
   </tr>
 </table>
