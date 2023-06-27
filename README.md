@@ -41,9 +41,9 @@ python 3.6
   </tr>
   <tr></tr>
   <tr align="center">
-    <td><img width="70%" src="https://cdn.staticaly.com/gh/raindrop-hb/douyin_spider/main/donate/zfb.png
+    <td><img width="70%" src="https://raw.kgithub.com/raindrop-hb/douyin_spider/main/donate/zfb.png
 "></td>
-    <td><img width="70%" src="https://cdn.staticaly.com/gh/raindrop-hb/douyin_spider/main/donate/wx.png
+    <td><img width="70%" src="https://raw.kgithub.com/raindrop-hb/douyin_spider/main/donate/wx.png
 "></td>
   </tr>
 </table>
