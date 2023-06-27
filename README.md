@@ -39,9 +39,9 @@ python 3.6
   </tr>
   <tr></tr>
   <tr align="center">
-    <td><img width="70%" src="![1Z4)%05U_UOCCA_12V{GL32_tmb](https://github.com/raindrop-hb/douyin_spider/assets/72308008/11ec7cb4-3ecd-447b-8ef7-98dd03a45c12)
+    <td><img width="70%" src="![1Z4)%05U_UOCCA_12V{GL32_tmb](https://kgithub.com/raindrop-hb/douyin_spider/assets/72308008/11ec7cb4-3ecd-447b-8ef7-98dd03a45c12)
 "></td>
-    <td><img width="70%" src="![KXELZF2RGDSH2`F_EIQL~J0_tmb](https://github.com/raindrop-hb/douyin_spider/assets/72308008/21f8b611-91f4-4cee-896f-e5c7f40f755b)
+    <td><img width="70%" src="![KXELZF2RGDSH2`F_EIQL~J0_tmb](https://kgithub.com/raindrop-hb/douyin_spider/assets/72308008/21f8b611-91f4-4cee-896f-e5c7f40f755b)
 "></td>
   </tr>
 </table>
