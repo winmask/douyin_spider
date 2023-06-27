@@ -34,17 +34,14 @@ python 3.6
 如果该项目对您有帮助，欢迎捐赠
 <table>
   <tr>
-    <th width="33.3%">支付宝</th>
-    <th width="33.3%">微信</th>
-    <th width="33.3%">QQ群</th>
+    <th width="50%">支付宝</th>
+    <th width="50%">微信</th>
   </tr>
   <tr></tr>
   <tr align="center">
     <td><img width="70%" src="![1Z4)%05U_UOCCA_12V{GL32_tmb](https://github.com/raindrop-hb/douyin_spider/assets/72308008/11ec7cb4-3ecd-447b-8ef7-98dd03a45c12)
 "></td>
     <td><img width="70%" src="![KXELZF2RGDSH2`F_EIQL~J0_tmb](https://github.com/raindrop-hb/douyin_spider/assets/72308008/21f8b611-91f4-4cee-896f-e5c7f40f755b)
-"></td>
-      <td><img width="70%" src="![AP~X{Y9J2FQLVRH{DT@ QIH_tmb](https://github.com/raindrop-hb/douyin_spider/assets/72308008/c1fc42fd-d7f6-4e5e-9e1e-2a6c298f3424)
 "></td>
   </tr>
 </table>
