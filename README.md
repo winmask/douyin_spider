@@ -36,12 +36,14 @@ python 3.6
 
 <table>
   <tr>
-    <th width="50%">支付宝</th>
-    <th width="50%">微信</th>
+    <th width="33.3%">支付宝</th>
+    <th width="33.3%">微信</th>
+    <th width="33.3%">QQ群</th>
   </tr>
   <tr></tr>
   <tr align="center">
     <td><img width="70%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72308008/249005291-da996bc0-37fe-4ac7-b29b-357af69d4c28.png"></td>
     <td><img width="70%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72308008/249005176-6327e7d8-b69e-4100-b3d7-ee27403dabf6.png"></td>
+    <td><img width="70%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72308008/249005430-6a9ad701-b9fa-4c88-98d4-2cbb01f7829b.png"></td>
   </tr>
 </table>
