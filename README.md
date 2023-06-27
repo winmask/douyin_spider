@@ -41,9 +41,9 @@ python 3.6
   </tr>
   <tr></tr>
   <tr align="center">
-    <td><img width="70%" src="https://kgithub.com/raindrop-hb/douyin_spider/assets/72308008/3f5905ee-ba33-4de5-aa89-1f119a6c3ad3
+    <td><img width="70%" src="https://cdn.staticaly.com/gh/raindrop-hb/douyin_spider/main/donate/zfb.png
 "></td>
-    <td><img width="70%" src="https://kgithub.com/raindrop-hb/douyin_spider/assets/72308008/28d2b0f7-9bf8-4c6d-801a-9d6701ebf5ed
+    <td><img width="70%" src="https://cdn.staticaly.com/gh/raindrop-hb/douyin_spider/main/donate/wx.png
 "></td>
   </tr>
 </table>
