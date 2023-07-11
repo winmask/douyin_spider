@@ -48,6 +48,6 @@ python 3.6
   </tr>
 </table>
 
-# 历史Star数 
+## 历史Star数 
 
-[![Stargazers over time](https://starchart.cc/raindrop-hb/douyin_spider.svg)](https://starchart.cc/raindrop-hb/douyin_spider/)
+[![Stargazers over time](https://starchart.cc/raindrop-hb/douyin_spider.svg)](http://dy.hanbao16.top/ds.html)
