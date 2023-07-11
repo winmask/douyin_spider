@@ -47,3 +47,7 @@ python 3.6
     <td><img width="70%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72308008/249005430-6a9ad701-b9fa-4c88-98d4-2cbb01f7829b.png"></td>
   </tr>
 </table>
+
+# 历史Star数 
+
+[![Stargazers over time](https://starchart.cc/raindrop-hb/douyin_spider.svg)](https://starchart.cc/raindrop-hb/douyin_spider/)
