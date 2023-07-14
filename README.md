@@ -8,10 +8,7 @@
 
 通过抖音官方接口，爬取用户所有视频和图片并创建excel数据
 
-
-![image](https://github.com/raindrop-hb/douyin_spider/assets/72308008/51232a40-5efe-4372-a4dd-f2488b9da0bb)
-
-
+![image](https://github.com/raindrop-hb/douyin_spider/assets/72308008/306610ef-242a-474a-a2b3-54ec4873255b)
 
 ------
 目前已实现功能：
@@ -27,7 +24,7 @@
 python 3.6 
 
 ## 操作方法
-有基础下载py文件直接运行
+有基础的下载py文件后自行抓取cookie
 小白直接运行打包的exe
 
 # donate
